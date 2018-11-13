@@ -14,3 +14,5 @@ DEVLOG:
 **Sunday 28.10.2018:** Added the packages for mysql and made the initial connection file.
 
 **Tuesday 30.10.2018:** I set up Apache and phpMyAdmin.
+
+**Tuesday 13.11.2018:** I noticed, I have not touched to this in two weeks. I wish this does not end up to that pile of frozen projects, as it is very common in me :/
